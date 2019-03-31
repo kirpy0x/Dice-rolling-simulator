@@ -1,0 +1,1 @@
+Decide if you want to roll 1 or 2 die. then roll!
